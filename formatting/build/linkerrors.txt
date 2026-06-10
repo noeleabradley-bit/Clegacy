@@ -1,0 +1,11 @@
+================================================================================
+Linker Errors
+Generated: 2026-06-03T04:51:13.689Z
+Total Errors: 2
+================================================================================
+
+[LNK2019] (MSVC)
+unresolved external symbol trim_newline referenced in function load_mappings [C:\Development\Clegacy\projects\formatting\build\formatting.vcxproj]
+
+[LNK1120] (MSVC)
+1 unresolved externals [C:\Development\Clegacy\projects\formatting\build\formatting.vcxproj]

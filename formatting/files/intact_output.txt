@@ -1,0 +1,1 @@
+BP7                       501 1     Customer payment              502 0     Loan adjustment               601       FEEP000000123450000           605       STMPN000000099999000          610       COMMP000000056650000          655       DUTYP000000012230000          702 0     Missing Security              ~~
