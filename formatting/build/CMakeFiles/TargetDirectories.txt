@@ -1,3 +1,0 @@
-C:/Development/Clegacy/projects/formatting/build/CMakeFiles/formatting.dir
-C:/Development/Clegacy/projects/formatting/build/CMakeFiles/ALL_BUILD.dir
-C:/Development/Clegacy/projects/formatting/build/CMakeFiles/ZERO_CHECK.dir
